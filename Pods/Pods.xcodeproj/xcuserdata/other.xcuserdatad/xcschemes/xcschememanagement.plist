@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>IQKeyboardManagerSwift.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+		<key>Pods-mermaids.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+		<key>SKFormTextField-SKFormTextField.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>3</integer>
+		</dict>
+		<key>SKFormTextField.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>1520003FEBEC114D6C84F832AFEDB994</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>50515A0DE9EAE8F715170EC6CE7506B0</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>67F91F2B17E349F449DE0F9C55E9BF85</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>937E06EFA452BD7773BFFC7E60DAC3F2</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>F8B94C086A12951AA2F5192B65C8FAB1</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>

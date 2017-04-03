@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "B3D2C49DCB6851E18A397E1A6A3DB80200DDBA5D",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "F0017DD473326728AAB244B736DFCBE8BB82CB78" : 9223372036854775807,
+    "B3D2C49DCB6851E18A397E1A6A3DB80200DDBA5D" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "CF03E5B7-3804-4284-806C-659C3C1C11F8",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "F0017DD473326728AAB244B736DFCBE8BB82CB78" : "Desktop\/MDCSwipeToChoose\/",
+    "B3D2C49DCB6851E18A397E1A6A3DB80200DDBA5D" : "mermaids\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "mermaids",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "mermaids.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/bitbucket.org\/Jingged\/mermaids.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "B3D2C49DCB6851E18A397E1A6A3DB80200DDBA5D"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/modocache\/MDCSwipeToChoose.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "F0017DD473326728AAB244B736DFCBE8BB82CB78"
+    }
+  ]
+}
